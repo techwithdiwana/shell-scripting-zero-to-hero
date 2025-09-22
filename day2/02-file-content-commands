@@ -1,0 +1,16 @@
+File Content Commands
+
+cat → File ka content dikhata hai
+head → File ke starting lines dikhata hai (default 10)
+tail → File ke last lines dikhata hai (default 10)
+more → File ko page by page dikhata hai
+less → File ko scroll karke dekhne ke liye
+
+Examples:
+cat notes.txt
+head -5 notes.txt
+tail -20 logfile.log
+more bigfile.txt
+less bigfile.txt
+
+---
