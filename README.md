@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/techwithdiwana/shell-scripting-zero-to-hero?style=for-the-badge) 
 ![Forks](https://img.shields.io/github/forks/techwithdiwana/shell-scripting-zero-to-hero?style=for-the-badge) 
 ![Last Commit](https://img.shields.io/github/last-commit/techwithdiwana/shell-scripting-zero-to-hero?style=for-the-badge) 
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxxxxxxx?style=for-the-badge&logo=youtube&label=YouTube%20Subscribers)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXXXXXXXXXXXXXXX?style=for-the-badge&logo=youtube&label=YouTube%20Subscribers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diwana%20Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diwana-kumar-418592128/)
 
 ---
