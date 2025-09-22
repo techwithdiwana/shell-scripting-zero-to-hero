@@ -1,0 +1,19 @@
+What is Shell?
+
+Shell ek program hai jo user aur operating system ke beech interface ka kaam karta hai. 
+Jab user terminal par koi command type karta hai, shell us command ko interpret karta hai aur 
+system (kernel) ko pass karta hai. Kernel us command ko execute karta hai aur output wapas 
+shell ke through user ko dikhata hai.
+
+Popular shells:
+- sh
+- bash
+- zsh
+- ksh
+- fish
+
+Shell do tarike se use hota hai:
+1. Interactive mode: Direct terminal par command chalana.
+2. Scripting mode: Commands ko ek file me likhna aur script ke roop me chalana.
+
+---

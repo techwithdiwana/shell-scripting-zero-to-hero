@@ -1,0 +1,19 @@
+Linux File System Overview
+
+Linux ka file system ek tree structure hai jisme root directory "/" hoti hai. 
+Sabhi files aur directories isi root ke andar hoti hain.
+
+Important directories:
+- /home : User directories
+- /bin  : Basic commands
+- /etc  : Configuration files
+- /var  : Logs aur variable data
+- /tmp  : Temporary files
+- /dev  : Device files
+- /proc : System aur process information
+- /root : Root user ka home directory
+
+Absolute path: /etc/hosts
+Relative path: ./file.txt
+
+---

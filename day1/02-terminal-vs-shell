@@ -1,0 +1,17 @@
+Terminal vs Shell
+
+Terminal:
+- Terminal ek program hai jo input aur output dikhata hai.
+- Ye ek interface hai jisme hum commands type karte hain.
+- Example: gnome-terminal, xterm, Windows Terminal.
+
+Shell:
+- Shell ek command interpreter hai jo terminal se input leta hai aur execute karta hai.
+- Example: bash, zsh, sh, fish.
+
+Relation:
+- Jab terminal open karte ho, wo ek shell start karta hai.
+- Terminal = Box
+- Shell = Engine
+
+---
